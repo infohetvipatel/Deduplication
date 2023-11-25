@@ -1,5 +1,3 @@
-Sure, here's a simplified README file for the deduplication code:
-
 # Deduplication using RecordLinkage
 
 ## Introduction
